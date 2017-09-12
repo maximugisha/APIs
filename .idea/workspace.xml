@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc2d4b4d-a1b4-4a9c-a666-edf68ae5e9ec" name="Default" comment="working with apis">
+    <list default="true" id="dc2d4b4d-a1b4-4a9c-a666-edf68ae5e9ec" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/geogram.php" afterPath="$PROJECT_DIR$/geogram.php" />
     </list>
@@ -17,13 +17,13 @@
       <file leaf-file-name="geogram.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/geogram.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="104" lean-forward="false" selection-start-line="14" selection-start-column="104" selection-end-line="14" selection-end-column="104" />
+            <state relative-caret-position="120">
+              <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
               <folding>
-                <marker date="1505236192068" expanded="true" signature="1530:1788" ph="..." />
-                <marker date="1505236192068" expanded="true" signature="1537:1600" ph="..." />
-                <marker date="1505236192068" expanded="true" signature="1607:1788" ph="..." />
-                <marker date="1505236192068" expanded="true" signature="1624:1788" ph="..." />
+                <marker date="1505238736475" expanded="true" signature="1572:1839" ph="..." />
+                <marker date="1505238736475" expanded="true" signature="1579:1642" ph="..." />
+                <marker date="1505238736475" expanded="true" signature="1649:1839" ph="..." />
+                <marker date="1505238736475" expanded="true" signature="1675:1839" ph="..." />
               </folding>
             </state>
           </provider>
@@ -60,7 +60,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 7.1" />
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1" />
+    <option name="x" value="-28" />
+    <option name="y" value="90" />
     <option name="width" value="887" />
     <option name="height" value="745" />
   </component>
@@ -125,12 +126,20 @@
       <workItem from="1505178125478" duration="888000" />
       <workItem from="1505186031249" duration="4979000" />
       <workItem from="1505231957766" duration="2094000" />
-      <workItem from="1505235577995" duration="1111000" />
+      <workItem from="1505235577995" duration="3176000" />
     </task>
+    <task id="LOCAL-00001" summary="aCCESSING INSTAGRAM PHOTOS WITH INSTAGRAM APIS">
+      <created>1505236743150</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1505236743150</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14100000" />
+    <option name="totallyTimeSpent" value="16165000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -165,7 +174,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="working with apis" />
-    <option name="LAST_COMMIT_MESSAGE" value="working with apis" />
+    <MESSAGE value="aCCESSING INSTAGRAM PHOTOS WITH INSTAGRAM APIS" />
+    <option name="LAST_COMMIT_MESSAGE" value="aCCESSING INSTAGRAM PHOTOS WITH INSTAGRAM APIS" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -177,10 +187,10 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1505236192068" expanded="true" signature="1530:1788" ph="..." />
-            <marker date="1505236192068" expanded="true" signature="1537:1600" ph="..." />
-            <marker date="1505236192068" expanded="true" signature="1607:1788" ph="..." />
-            <marker date="1505236192068" expanded="true" signature="1624:1788" ph="..." />
+            <marker date="1505238736475" expanded="true" signature="1572:1839" ph="..." />
+            <marker date="1505238736475" expanded="true" signature="1579:1642" ph="..." />
+            <marker date="1505238736475" expanded="true" signature="1649:1839" ph="..." />
+            <marker date="1505238736475" expanded="true" signature="1675:1839" ph="..." />
           </folding>
         </state>
       </provider>
@@ -198,10 +208,10 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1505236192068" expanded="true" signature="1530:1788" ph="..." />
-            <marker date="1505236192068" expanded="true" signature="1537:1600" ph="..." />
-            <marker date="1505236192068" expanded="true" signature="1607:1788" ph="..." />
-            <marker date="1505236192068" expanded="true" signature="1624:1788" ph="..." />
+            <marker date="1505238736475" expanded="true" signature="1572:1839" ph="..." />
+            <marker date="1505238736475" expanded="true" signature="1579:1642" ph="..." />
+            <marker date="1505238736475" expanded="true" signature="1649:1839" ph="..." />
+            <marker date="1505238736475" expanded="true" signature="1675:1839" ph="..." />
           </folding>
         </state>
       </provider>
@@ -219,10 +229,10 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1505236192068" expanded="true" signature="1530:1788" ph="..." />
-            <marker date="1505236192068" expanded="true" signature="1537:1600" ph="..." />
-            <marker date="1505236192068" expanded="true" signature="1607:1788" ph="..." />
-            <marker date="1505236192068" expanded="true" signature="1624:1788" ph="..." />
+            <marker date="1505238736475" expanded="true" signature="1572:1839" ph="..." />
+            <marker date="1505238736475" expanded="true" signature="1579:1642" ph="..." />
+            <marker date="1505238736475" expanded="true" signature="1649:1839" ph="..." />
+            <marker date="1505238736475" expanded="true" signature="1675:1839" ph="..." />
           </folding>
         </state>
       </provider>
@@ -240,10 +250,10 @@
         <state relative-caret-position="646">
           <caret line="38" column="7" lean-forward="true" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
           <folding>
-            <marker date="1505236192068" expanded="true" signature="1530:1788" ph="..." />
-            <marker date="1505236192068" expanded="true" signature="1537:1600" ph="..." />
-            <marker date="1505236192068" expanded="true" signature="1607:1788" ph="..." />
-            <marker date="1505236192068" expanded="true" signature="1624:1788" ph="..." />
+            <marker date="1505238736475" expanded="true" signature="1572:1839" ph="..." />
+            <marker date="1505238736475" expanded="true" signature="1579:1642" ph="..." />
+            <marker date="1505238736475" expanded="true" signature="1649:1839" ph="..." />
+            <marker date="1505238736475" expanded="true" signature="1675:1839" ph="..." />
           </folding>
         </state>
       </provider>
@@ -273,13 +283,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/geogram.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="104" lean-forward="false" selection-start-line="14" selection-start-column="104" selection-end-line="14" selection-end-column="104" />
+        <state relative-caret-position="120">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
           <folding>
-            <marker date="1505236192068" expanded="true" signature="1530:1788" ph="..." />
-            <marker date="1505236192068" expanded="true" signature="1537:1600" ph="..." />
-            <marker date="1505236192068" expanded="true" signature="1607:1788" ph="..." />
-            <marker date="1505236192068" expanded="true" signature="1624:1788" ph="..." />
+            <marker date="1505238736475" expanded="true" signature="1572:1839" ph="..." />
+            <marker date="1505238736475" expanded="true" signature="1579:1642" ph="..." />
+            <marker date="1505238736475" expanded="true" signature="1649:1839" ph="..." />
+            <marker date="1505238736475" expanded="true" signature="1675:1839" ph="..." />
           </folding>
         </state>
       </provider>
